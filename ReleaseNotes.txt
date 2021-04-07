@@ -1,0 +1,95 @@
+Release Notes
+SnakeBall 1.0
+16 Juin 2018
+
+INSTRUCTIONS DE JEU
+(voir Tutoriel.pdf pour plus de détails)
+
+REMARQUES
+
+Bugs connus : Les pièces se matérialisent parfois à l’intérieur d’obstacles. 
+Voies d’amélioration : Le visuel du serpent aurait pu être amélioré, de même que son comportement, en gérant de façon plus détaillée ses interactions avec les éléments de la carte hormis le joueur. Le radar de la mini-carte pourrait aussi être amélioré, afin que les bonus et pièces soient visibles de partout.
+Difficultés majeures rencontrées : Une difficulté majeure rencontrée a été la configuration de la caméra, afin qu’elle suive de manière fluide la balle. De plus, la gestion du versioning avec git a été délicate en raison de problèmes de réseau récurrents (git.esiee.fr) et de la non-intégration à Unity.
+
+CREDITS
+
+Pierre PERRIER-RIDET : 			 
+- Gameplay				
+- Graphiques				
+- Musique & Sons			
+- Bonus					
+
+Sarah CE-OUGNA :
+- Gameplay
+- Niveaux
+- Musique & Sons
+- Snake
+
+L’organisation du projet et la répartition des tâches a été effectuée via Trello : https://trello.com/b/RC0MU899/projet-unity
+
+ASSETS
+
+ProBuilder :
+- www.procore3d.com/docs/probuilder
+- Gratuit
+- Free Licence 
+
+TextMeshPro : 
+- https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126
+- Gratuit
+- Free Licence 
+
+A_piece_of_nature :
+- https://www.assetstore.unity3d.com/en/#!/content/38065
+- Gratuit
+- Free Licence 
+Buildings :
+- https://assetstore.unity.com/packages/3d/environments/abandoned-buildings-62875
+- Gratuit
+- Free Licence 
+
+Desert City Pack :
+- https://assetstore.unity.com/packages/3d/environments/historic/desert-set-house-138105
+- Gratuit
+- Free Licence 
+
+EffectsExamples :
+- https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777
+- Gratuit
+- Free Licence 
+
+FreeMountain :
+- https://assetstore.unity.com/packages/3d/environments/landscapes/autumn-mountain-52251
+- Gratuit
+- Free Licence 
+
+Japanese Coin :
+- https://assetstore.unity.com/packages/3d/props/old-coin-49530
+- Gratuit
+- Free Licence 
+
+SlimUI :
+- https://assetstore.unity.com/packages/templates/packs/3d-modern-menu-116144
+- Gratuit
+- Free Licence 
+
+Space_Objects :
+- https://assetstore.unity.com/packages/3d/props/space-objects-91874
+- Gratuit
+- Free Licence 
+
+Standard Assets :
+- https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351
+- Gratuit
+- Free Licence 
+
+BallPack :
+- https://assetstore.unity.com/packages/3d/props/ball-pack-446
+- Gratuit
+- Free Licence
+
+Musique et sons : 
+- https://www.freesfx.co.uk/
+- Gratuit
+- Free Licence
+

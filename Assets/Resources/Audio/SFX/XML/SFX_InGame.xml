@@ -1,0 +1,16 @@
+<SFX_SETUP>
+	<SFX name="Button" volume="1" />
+	<SFX name="Selection" volume="1" /> 
+	<SFX name="LetsGo" volume="1" />
+	<SFX name="Tick" volume="1" />  
+	<SFX name="getPiece" volume="1" /> 
+	<SFX name="GameOver" volume="1" />
+  <SFX name="hoversound" volume="1" />
+  <SFX name="swooshsound" volume="1" />
+  <SFX name="Boing" volume="1" />
+  <SFX name="jump" volume="1" />
+  <SFX name="levelup" volume="1" />
+  <SFX name="propulser" volume="1" />
+  <SFX name="explosion" volume="1" />
+  <SFX name="bonusGet" volume="1" />
+</SFX_SETUP>

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{99594B6F-2DA0-2F56-2795-ED1EE8389117}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SnakeHead.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="98" Column="54" />
+      <File FileName="Assets/Scripts/Bonus.cs" Line="187" Column="34" />
+      <File FileName="Assets/Scripts/Snake.cs" Line="92" Column="36" />
+      <File FileName="Assets/Scripts/Doors.cs" Line="67" Column="6" />
+      <File FileName="Assets/Scripts/SnakeBody.cs" Line="35" Column="17" />
+      <File FileName="Assets/Scripts/SnakeHead.cs" Line="15" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
