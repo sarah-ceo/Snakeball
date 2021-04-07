@@ -4,7 +4,7 @@ This is a school project: a game made with Unity in which a ball is chased by a 
 
 This project was made with Pierre PERRIER-RIDET (pierre.perrierridet@gmail.com).
 
-You can try the game by launching snakeball.exe from the Build/ folder. The packages required are listed in [this file](ReleaseNotes.txt) (in French). The instructions for the game can be found [here](Tutoriel.pdf) (in French).
+You can try the game by launching snakeball.exe from the Build/ folder. The instructions for the game can be found [here](Tutoriel.pdf) (in French). The packages used are listed in [this file](ReleaseNotes.txt) (in French).
 
 Screenshots:
 
